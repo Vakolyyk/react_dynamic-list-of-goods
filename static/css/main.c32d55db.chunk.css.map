@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AACA,WACE,iBAAkB,CACnB,aAIG,eAAgB,CAChB,SAAU","file":"main.c32d55db.chunk.css","sourcesContent":["// styles go here\n.container {\n  text-align: center;\n}\n\n.goods {\n  &__list {\n    list-style: none;\n    padding: 0;\n  }\n}\n"]}
